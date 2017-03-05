@@ -301,7 +301,7 @@ We have a git repo and we want to tag the current commit with `new_tag`.
    This project has a remote repository.  Identify it.
 
 ## Answer #24
-   git remote -v
+   git remote -v  
    my_remote_repo
 
 
